@@ -13,7 +13,7 @@
             "name": "饭硬线路"
         },
        {
-            "url": "https://cainisi.cf/",
+            "url": "https://tvbox.cainisi.cf",
             "name": "菜妮丝线路"
         }
             ]
