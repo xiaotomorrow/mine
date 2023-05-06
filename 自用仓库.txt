@@ -15,10 +15,6 @@
        {
             "url": "https://cainisi.cf/",
             "name": "菜妮丝线路"
-        },
-       {
-            "url": "https://qtyang.xmzb.xyz/cps/%E7%94%B5%E8%A7%86%E7%8E%8B.json",
-            "name": "电视王"
         }
             ]
 }
