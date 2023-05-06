@@ -1,0 +1,24 @@
+{
+    "urls": [
+       {
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "肥猫线路"
+        },
+       {
+            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+            "name": "⛵️月光宝盒Box"
+        },
+       {
+            "url": "http://饭太硬.ga",
+            "name": "饭硬线路"
+        },
+       {
+            "url": "https://cainisi.cf/",
+            "name": "菜妮丝线路"
+        },
+       {
+            "url": "https://qtyang.xmzb.xyz/cps/%E7%94%B5%E8%A7%86%E7%8E%8B.json",
+            "name": "电视王"
+        }
+            ]
+}
