@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,iqiq.io
     # tiktok走代理
   - DOMAIN-KEYWORD,tiktok
+  - DOMAIN-KEYWORD,nvidia
   - DOMAIN-SUFFIX,domob.ml
   - DOMAIN-SUFFIX,githubusercontent.com
 
