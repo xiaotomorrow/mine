@@ -4,7 +4,6 @@ payload:
     # tiktok走代理
   - DOMAIN-KEYWORD,tiktok
   - DOMAIN-KEYWORD,listary
-  - DOMAIN-KEYWORD,nvidia
   - DOMAIN-SUFFIX,domob.ml
   - DOMAIN-SUFFIX,githubusercontent.com
 
