@@ -1,0 +1,10 @@
+curl https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt > /etc/mosdns/direct-list.txt && \
+curl https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/apple-cn.txt > /etc/mosdns/apple-cn.txt && \
+curl https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/google-cn.txt > /etc/mosdns/google-cn.txt && \
+curl https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt > /etc/mosdns/proxy-list.txt && \
+curl https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt > /etc/mosdns/gfw.txt && \
+curl https://raw.githubusercontent.com/Hackl0us/GeoIP2-CN/release/CN-ip-cidr.txt > /etc/mosdns/CN-ip-cidr.txt && \
+touch /etc/mosdns/force-nocn.txt && \
+touch /etc/mosdns/force-cn.txt
+
+# force-cn 是强制本地解析域名，force-nocn 是强制非本地解析域名

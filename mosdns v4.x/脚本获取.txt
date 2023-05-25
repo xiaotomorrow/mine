@@ -1,0 +1,7 @@
+wget https://glare.xukecheng.tech/Loyalsoldier/geoip/cn.dat -O /etc/mosdns/cn.dat && \
+wget https://glare.xukecheng.tech/Loyalsoldier/v2ray-rules-dat/geosite.dat -O /etc/mosdns/geosite.dat && \
+wget https://glare.xukecheng.tech/Loyalsoldier/v2ray-rules-dat/geoip.dat -O /etc/mosdns/geoip.dat && \
+touch /etc/mosdns/ecs_cn_domain.txt && \
+touch /etc/mosdns/ecs_tw_domain.txt
+
+# ecs_cn_domain 是强制本地解析域名，ecs_tw_domain 是强制非本地解析域名；格式可以参考 https://github.com/pmkol/easymosdns/blob/main/ecs_tw_domain.txt
