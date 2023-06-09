@@ -1,0 +1,515 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 tvg-name="CCTV4K" group-title="【🍎YanG】·央卫视",CCTV4K •支持回看
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="【🍎YanG】·央卫视",CCTV1
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001022/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV2" group-title="【🍎YanG】·央卫视",CCTV2
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001220/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV3" group-title="【🍎YanG】·央卫视",CCTV3
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001186/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV4" group-title="【🍎YanG】·央卫视",CCTV4
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001221/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV5" group-title="【🍎YanG】·央卫视",CCTV5
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001187/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV5+" group-title="【🍎YanG】·央卫视",CCTV5+
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV6" group-title="【🍎YanG】·央卫视",CCTV6
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001188/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV7" group-title="【🍎YanG】·央卫视",CCTV7
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001236/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV8" group-title="【🍎YanG】·央卫视",CCTV8
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001189/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV9" group-title="【🍎YanG】·央卫视",CCTV9
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001237/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV10" group-title="【🍎YanG】·央卫视",CCTV10
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001238/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV11" group-title="【🍎YanG】·央卫视",CCTV11
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001309/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV12" group-title="【🍎YanG】·央卫视",CCTV12
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001239/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV13" group-title="【🍎YanG】·央卫视",CCTV13
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001328/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV14" group-title="【🍎YanG】·央卫视",CCTV14
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001240/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV15" group-title="【🍎YanG】·央卫视",CCTV15
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001338/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV16" group-title="【🍎YanG】·央卫视",CCTV16
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001258/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV17" group-title="【🍎YanG】·央卫视",CCTV17
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001241/index.m3u8?
+#EXTINF:-1 tvg-name="兵器科技" group-title="【🍎YanG】·央卫视",CCTV兵器科技
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-name="怀旧剧场" group-title="【🍎YanG】·央卫视",CCTV怀旧剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 tvg-name="世界地理" group-title="【🍎YanG】·央卫视",CCTV世界地理
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="文化精品" group-title="【🍎YanG】·央卫视",CCTV文化精品
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+#EXTINF:-1 tvg-name="央视台球" group-title="【🍎YanG】·央卫视",CCTV央视台球
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+#EXTINF:-1 tvg-name="央视高网" group-title="【🍎YanG】·央卫视",CCTV央视高网
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+#EXTINF:-1 tvg-name="风云剧场" group-title="【🍎YanG】·央卫视",CCTV风云剧场
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="第一剧场" group-title="【🍎YanG】·央卫视",CCTV第一剧场
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="风云足球" group-title="【🍎YanG】·央卫视",CCTV风云足球
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+#EXTINF:-1 tvg-name="电视指南" group-title="【🍎YanG】·央卫视",CCTV电视指南
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+#EXTINF:-1 tvg-name="风云音乐" group-title="【🍎YanG】·央卫视",CCTV风云音乐
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="女性时尚" group-title="【🍎YanG】·央卫视",CCTV女性时尚
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CETV1" group-title="【🍎YanG】·央卫视",CETV1
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001020/index.m3u8?
+#EXTINF:-1 tvg-name="CETV4" group-title="【🍎YanG】·央卫视",CETV4
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001348/index.m3u8?
+#EXTINF:-1 tvg-name="CGTV" group-title="【🍎YanG】·央卫视",CGTV
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="湖南卫视" group-title="【🍎YanG】·央卫视",湖南卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001026/index.m3u8?
+#EXTINF:-1 tvg-name="浙江卫视" group-title="【🍎YanG】·央卫视",浙江卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001023/index.m3u8?
+#EXTINF:-1 tvg-name="江苏卫视" group-title="【🍎YanG】·央卫视",江苏卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001033/index.m3u8?
+#EXTINF:-1 tvg-name="东方卫视" group-title="【🍎YanG】·央卫视",东方卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001013/index.m3u8?
+#EXTINF:-1 tvg-name="广东卫视" group-title="【🍎YanG】·央卫视",广东卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001032/index.m3u8?
+#EXTINF:-1 tvg-name="广西卫视" group-title="【🍎YanG】·央卫视",广西卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001224/index.m3u8?
+#EXTINF:-1 tvg-name="深圳卫视" group-title="【🍎YanG】·央卫视",深圳卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001030/index.m3u8?
+#EXTINF:-1 tvg-name="北京卫视" group-title="【🍎YanG】·央卫视",北京卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001029/index.m3u8?
+#EXTINF:-1 tvg-name="东南卫视" group-title="【🍎YanG】·央卫视",东南卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001201/index.m3u8?
+#EXTINF:-1 tvg-name="四川卫视" group-title="【🍎YanG】·央卫视",四川卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001130/index.m3u8?
+#EXTINF:-1 tvg-name="天津卫视" group-title="【🍎YanG】·央卫视",天津卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001036/index.m3u8?
+#EXTINF:-1 tvg-name="安徽卫视" group-title="【🍎YanG】·央卫视",安徽卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001037/index.m3u8?
+#EXTINF:-1 tvg-name="山东卫视" group-title="【🍎YanG】·央卫视",山东卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001028/index.m3u8?
+#EXTINF:-1 tvg-name="江西卫视" group-title="【🍎YanG】·央卫视",江西卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001034/index.m3u8?
+#EXTINF:-1 tvg-name="河北卫视" group-title="【🍎YanG】·央卫视",河北卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001229/index.m3u8?
+#EXTINF:-1 tvg-name="河南卫视" group-title="【🍎YanG】·央卫视",河南卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001222/index.m3u8?
+#EXTINF:-1 tvg-name="海南卫视" group-title="【🍎YanG】·央卫视",海南卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001183/index.m3u8?
+#EXTINF:-1 tvg-name="湖北卫视" group-title="【🍎YanG】·央卫视",湖北卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001027/index.m3u8?
+#EXTINF:-1 tvg-name="贵州卫视" group-title="【🍎YanG】·央卫视",贵州卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001184/index.m3u8?
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="【🍎YanG】·央卫视",辽宁卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001035/index.m3u8?
+#EXTINF:-1 tvg-name="重庆卫视" group-title="【🍎YanG】·央卫视",重庆卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001129/index.m3u8?
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="【🍎YanG】·央卫视",甘肃卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001298/index.m3u8?
+#EXTINF:-1 tvg-name="吉林卫视" group-title="【🍎YanG】·央卫视",吉林卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001225/index.m3u8?
+#EXTINF:-1 tvg-name="云南卫视" group-title="【🍎YanG】·央卫视",云南卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8?
+#EXTINF:-1 tvg-name="江苏卫视" group-title="【🍎YanG】·央卫视",江苏卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001033/index.m3u8?
+#EXTINF:-1 tvg-name="三沙卫视" group-title="【🍎YanG】·央卫视",三沙卫视
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="【🍎YanG】·央卫视",黑龙江卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001031/index.m3u8?
+#EXTINF:-1 tvg-name="江苏卫视" group-title="【🍎YanG】·央卫视",江苏卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001033/index.m3u8?
+
+#EXTINF:-1 tvg-name="凤凰中文" group-title="【🍎YanG】·数字",凤凰中文•支持回看
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="【🍎YanG】·数字",凤凰资讯•支持回看
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 tvg-name="第一财经" group-title="【🍎YanG】·数字",第一财经
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001230/index.m3u8?
+#EXTINF:-1 tvg-name="金鹰纪实" group-title="【🍎YanG】·数字",金鹰纪实
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001230/index.m3u8?
+#EXTINF:-1 tvg-name="纪实人文" group-title="【🍎YanG】·数字",纪实人文
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001019/index.m3u8?
+#EXTINF:-1 tvg-name="纪实科教" group-title="【🍎YanG】·数字",纪实科教
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001231/index.m3u8?
+#EXTINF:-1 tvg-name="求索动物" group-title="【🍎YanG】·数字",求索动物
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="求索生活" group-title="【🍎YanG】·数字",求索生活
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="求索科学" group-title="【🍎YanG】·数字",求索科学
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="求索纪录" group-title="【🍎YanG】·数字",求索纪录
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="超级电影" group-title="【🍎YanG】·数字",NewTv超级电影
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-name="超级电视剧" group-title="【🍎YanG】·数字",NewTv超级电视剧
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-name="超级体育" group-title="【🍎YanG】·数字",NewTv超级体育
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-name="超级综艺" group-title="【🍎YanG】·数字",NewTv超级综艺
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-name="金牌综艺" group-title="【🍎YanG】·数字",NewTv金牌综艺
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-name="东北热剧" group-title="【🍎YanG】·数字",NewTv东北热剧
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-name="精品萌宠" group-title="【🍎YanG】·数字",NewTv精品萌宠
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+#EXTINF:-1 tvg-name="哒啵电竞" group-title="【🍎YanG】·数字",NewTv哒啵电竞
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/index.m3u8
+#EXTINF:-1 tvg-name="哒啵赛事" group-title="【🍎YanG】·数字",NewTv哒啵赛事
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-name="欢乐剧场" group-title="【🍎YanG】·数字",NewTv欢乐剧场
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-name="黑莓动画" group-title="【🍎YanG】·数字",NewTv黑莓动画
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-name="黑莓电影" group-title="【🍎YanG】·数字",NewTv黑莓电影•支持回看
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 tvg-name="怡伴健康" group-title="【🍎YanG】·数字",NewTv怡伴健康•支持回看
+http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1986735481_995129881/ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
+#EXTINF:-1 tvg-name="潮妈辣婆" group-title="【🍎YanG】·数字",NewTv潮妈辣婆•支持回看
+http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1705588260_46164741/ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
+#EXTINF:-1 tvg-name="军旅剧场" group-title="【🍎YanG】·数字",NewTv军旅剧场•支持回看
+http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw1807611386_-262631246/ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
+#EXTINF:-1 tvg-name="中国功夫" group-title="【🍎YanG】·数字",NewTv中国功夫•支持回看
+http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1934355864_2070028581/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
+#EXTINF:-1 tvg-name="农业致富" group-title="【🍎YanG】·数字",NewTv农业致富•支持回看
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2105966330_1690115505/ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
+#EXTINF:-1 tvg-name="动作电影" group-title="【🍎YanG】·数字",NewTv动作电影•支持回看
+http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw2169742343_-422728889/ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
+#EXTINF:-1 tvg-name="家庭剧场" group-title="【🍎YanG】·数字",NewTv家庭剧场•支持回看
+http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw3441504651_1879058580/ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
+#EXTINF:-1 tvg-name="惊悚悬疑" group-title="【🍎YanG】·数字",NewTv惊悚悬疑•支持回看
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2482771376_951312812/ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
+#EXTINF:-1 tvg-name="武博世界" group-title="【🍎YanG】·数字",NewTv武博世界•支持回看
+http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw2554338791_49940138/ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
+#EXTINF:-1 tvg-name="炫舞未来" group-title="【🍎YanG】·数字",NewTv炫舞未来•支持回看
+http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2582593423_1721070986/ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
+#EXTINF:-1 tvg-name="爱情喜剧" group-title="【🍎YanG】·数字",NewTv爱情喜剧•支持回看
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2778199896_-991379679/ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
+#EXTINF:-1 tvg-name="精品体育" group-title="【🍎YanG】·数字",NewTv精品体育•支持回看
+http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
+#EXTINF:-1 tvg-name="精品大剧" group-title="【🍎YanG】·数字",NewTv精品大剧•支持回看
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2817459161_-1430429466/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
+#EXTINF:-1 tvg-name="军事评论" group-title="【🍎YanG】·数字",NewTv军事评论•支持回看
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3373254713_-1111569189/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
+#EXTINF:-1 tvg-name="精品记录" group-title="【🍎YanG】·数字",NewTv精品记录•支持回看
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2837435881_530071425/ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
+#EXTINF:-1 tvg-name="明星大片" group-title="【🍎YanG】·数字",NewTv明星大片•支持回看
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" group-title="【🍎YanG】·数字",CHC动作电影•支持回看
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-name="CHC 高清电影" group-title="【🍎YanG】·数字",CHC高清电影•支持回看
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="【🍎YanG】·数字",CHC家庭影院•支持回看
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-name="生活时尚" group-title="【🍎YanG】·数字",SiTV五星体育
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
+#EXTINF:-1 tvg-name="东方财经" group-title="【🍎YanG】·数字",SiTV东方财经
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001318/index.m3u8?
+#EXTINF:-1 tvg-name="欢笑剧场" group-title="【🍎YanG】·数字",SiTV欢笑剧场
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001193/index.m3u8?
+#EXTINF:-1 tvg-name="法治天地" group-title="【🍎YanG】·数字",SiTV法治天地
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001195/index.m3u8?
+#EXTINF:-1 tvg-name="七彩戏剧" group-title="【🍎YanG】·数字",SiTV七彩戏剧
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001308/index.m3u8?
+#EXTINF:-1 tvg-name="乐游" group-title="【🍎YanG】·数字",SiTV乐游
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001200/index.m3u8?
+#EXTINF:-1 tvg-name="动漫秀场" group-title="【🍎YanG】·数字",SiTV动漫秀场
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001196/index.m3u8?
+#EXTINF:-1 tvg-name="游戏风云" group-title="【🍎YanG】·数字",SiTV游戏风云
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001192/index.m3u8?
+#EXTINF:-1 tvg-name="生活时尚" group-title="【🍎YanG】·数字",SiTV生活时尚
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001199/index.m3u8?
+#EXTINF:-1 tvg-name="都市剧场" group-title="【🍎YanG】·数字",SiTV都市剧场
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001203/index.m3u8?
+#EXTINF:-1 tvg-name="金色学堂" group-title="【🍎YanG】·数字",SiTV金色学堂
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001194/index.m3u8?
+#EXTINF:-1 tvg-name="卡酷少儿" group-title="【🍎YanG】·数字",卡酷少儿
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001245/index.m3u8?
+#EXTINF:-1 tvg-name="哈哈炫动" group-title="【🍎YanG】·数字",哈哈炫动
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001232/index.m3u8?
+#EXTINF:-1 tvg-name="快乐垂钓" group-title="【🍎YanG】·数字",快乐垂钓
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001235/index.m3u8?
+#EXTINF:-1 tvg-name="茶频道" group-title="【🍎YanG】·数字",茶频道
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001234/index.m3u8?
+#EXTINF:-1 tvg-name="纪实科教" group-title="【🍎YanG】·数字",BRTV纪实科教
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="精彩综艺" group-title="【🍎YanG】·数字",精彩综艺
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="中国交通" group-title="【🍎YanG】·数字",中国交通
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000438/index.m3u8?IAS
+#EXTINF:-1 group-title="【🍎YanG】·数字",央广购物
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001420/index.m3u8?
+#EXTINF:-1 group-title="【🍎YanG】·数字",东方购物
+
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001039/index.m3u8?
+#EXTINF:-1 tvg-name="上海东方影视" group-title="【🍎YanG】·地方频道",「上海」东方影视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8?
+#EXTINF:-1 tvg-name="上海都市" group-title="【🍎YanG】·地方频道",「上海」都市
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001015/index.m3u8?
+#EXTINF:-1 tvg-name="上海教育电视台" group-title="【🍎YanG】·地方频道",「上海」教育电视台
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001268/index.m3u8?
+#EXTINF:-1 tvg-name="上海外语频道" group-title="【🍎YanG】·地方频道",「上海」外语频道
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001128/index.m3u8?
+#EXTINF:-1 tvg-name="上海新闻综合" group-title="【🍎YanG】·地方频道",「上海」新闻综合
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001014/index.m3u8?
+#EXTINF:-1 tvg-name="null" group-title="【🍎YanG】·地方频道",「江苏」江苏交通广播
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw546624575_-1910844548/ott.mobaibox.com/PLTV/3/224/3221227937/index.m3u8
+#EXTINF:-1 tvg-name="null" group-title="【🍎YanG】·地方频道",「江苏」江苏健康广播
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw600036240_383613297/ott.mobaibox.com/PLTV/3/224/3221227952/index.m3u8
+#EXTINF:-1 tvg-name="null" group-title="【🍎YanG】·地方频道",「江苏」江苏交通广播
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw647596804_-5801787/ott.mobaibox.com/PLTV/3/224/3221227990/index.m3u8
+#EXTINF:-1 tvg-name="null" group-title="【🍎YanG】·地方频道",「江苏」江苏文艺广播
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw715522857_-1424246390/ott.mobaibox.com/PLTV/3/224/3221227987/index.m3u8
+#EXTINF:-1 tvg-name="null" group-title="【🍎YanG】·地方频道",「江苏」江苏新闻广播
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw769954038_1328455700/ott.mobaibox.com/PLTV/3/224/3221227984/index.m3u8
+#EXTINF:-1 tvg-name="null" group-title="【🍎YanG】·地方频道",「江苏」江苏新闻综合广播
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw833550595_1143544585/ott.mobaibox.com/PLTV/3/224/3221227934/index.m3u8
+#EXTINF:-1 tvg-name="null" group-title="【🍎YanG】·地方频道",「江苏」江苏经典流行音乐广播
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw878817645_-701348812/ott.mobaibox.com/PLTV/3/224/3221227943/index.m3u8
+#EXTINF:-1 tvg-name="null" group-title="【🍎YanG】·地方频道",「江苏」江苏财经之声广播
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw933154163_1181121507/ott.mobaibox.com/PLTV/3/224/3221227946/index.m3u8
+#EXTINF:-1 tvg-name="null" group-title="【🍎YanG】·地方频道",「江苏」金陵之声广播
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw1001680748_68258733/ott.mobaibox.com/PLTV/3/224/3221227940/index.m3u8
+#EXTINF:-1 tvg-name="null" group-title="【🍎YanG】·地方频道",「江苏」江苏音乐广播
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw1053240669_34336301/ott.mobaibox.com/PLTV/3/224/3221227949/index.m3u8
+#EXTINF:-1 tvg-name="江苏体育休闲" group-title="【🍎YanG】·地方频道",「江苏」江苏体育休闲
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw4122585160_1534269250/ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8
+#EXTINF:-1 tvg-name="江苏公共新闻" group-title="【🍎YanG】·地方频道",「江苏」江苏公共新闻
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw4180964299_994803683/ott.mobaibox.com/PLTV/3/224/3221225925/index.m3u8
+#EXTINF:-1 tvg-name="江苏城市" group-title="【🍎YanG】·地方频道",「江苏」江苏城市
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw4264340981_727917420/ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
+#EXTINF:-1 tvg-name="江苏综艺" group-title="【🍎YanG】·地方频道",「江苏」江苏综艺
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw105610815_-1378935043/ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8
+#EXTINF:-1 tvg-name="江苏影视" group-title="【🍎YanG】·地方频道",「江苏」江苏影视
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw25164341_-1061241932/ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8
+#EXTINF:-1 tvg-name="江苏教育" group-title="【🍎YanG】·地方频道",「江苏」江苏教育
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw329009742_-1392321549/ott.mobaibox.com/PLTV/3/224/3221225923/index.m3u8
+#EXTINF:-1 tvg-name="南京信息" group-title="【🍎YanG】·地方频道",「江苏」南京信息
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3029680014_-204362700/ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8
+#EXTINF:-1 tvg-name="南京娱乐" group-title="【🍎YanG】·地方频道",「江苏」南京娱乐
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
+#EXTINF:-1 tvg-name="南京新闻综合" group-title="【🍎YanG】·地方频道",「江苏」南京新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3127461495_-1929938189/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
+#EXTINF:-1 tvg-name="南京少儿" group-title="【🍎YanG】·地方频道",「江苏」南京少儿
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3425352611_209642410/ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8
+#EXTINF:-1 tvg-name="南京科技" group-title="【🍎YanG】·地方频道",「江苏」南京科技
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3484211223_471033633/ott.mobaibox.com/PLTV/4/224/3221227194/index.m3u8
+#EXTINF:-1 tvg-name="南京生活" group-title="【🍎YanG】·地方频道",「江苏」南京生活
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3530023629_201686832/ott.mobaibox.com/PLTV/4/224/3221227786/index.m3u8
+#EXTINF:-1 tvg-name="南京十八" group-title="【🍎YanG】·地方频道",「江苏」南京十八
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3568749588_-1882152959/ott.mobaibox.com/PLTV/4/224/3221227178/index.m3u8
+#EXTINF:-1 tvg-name="南京影视" group-title="【🍎YanG】·地方频道",「江苏」南京影视
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3614839407_-1644050596/ott.mobaibox.com/PLTV/4/224/3221227719/index.m3u8
+#EXTINF:-1 tvg-name="崇川" group-title="【🍎YanG】·地方频道",「江苏」崇川
+http://[2409:8087:2001:20:2800:0:df6e:eb25]/wh7f454c46tw1512301981_1454766575/ott.mobaibox.com/PLTV/4/224/3221228533/index.m3u8
+#EXTINF:-1 tvg-name="南通3" group-title="【🍎YanG】·地方频道",「江苏」南通3
+http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw1440049912_-2025370179/ott.mobaibox.com/PLTV/4/224/3221228451/index.m3u8
+#EXTINF:-1 tvg-name="南通2" group-title="【🍎YanG】·地方频道",「江苏」南通2
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw1356203236_1007889310/ott.mobaibox.com/PLTV/4/224/3221228448/index.m3u8
+#EXTINF:-1 tvg-name="盐城1" group-title="【🍎YanG】·地方频道",「江苏」盐城1
+http://[2409:8087:2001:20:2800:0:df6e:eb25]/wh7f454c46tw1245367087_-983708624/ott.mobaibox.com/PLTV/4/224/3221228435/index.m3u8
+#EXTINF:-1 tvg-name="盐城2" group-title="【🍎YanG】·地方频道",「江苏」盐城2
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw1131928239_2039612798/ott.mobaibox.com/PLTV/4/224/3221228433/index.m3u8
+#EXTINF:-1 tvg-name="盐城3" group-title="【🍎YanG】·地方频道",「江苏」盐城3
+http://[2409:8087:2001:20:2800:0:df6e:eb21]/wh7f454c46tw1299375729_1661164560/ott.mobaibox.com/PLTV/4/224/3221228436/index.m3u8
+#EXTINF:-1 tvg-name="徐州1" group-title="【🍎YanG】·地方频道",「江苏」徐州1
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw449482893_-1418519228/ott.mobaibox.com/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 tvg-name="徐州2" group-title="【🍎YanG】·地方频道",「江苏」徐州2
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw554442372_-1047030766/ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-name="徐州3" group-title="【🍎YanG】·地方频道",「江苏」徐州3
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw612056802_-2107448704/ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
+#EXTINF:-1 tvg-name="徐州4" group-title="【🍎YanG】·地方频道",「江苏」徐州4
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw646564841_-1162201747/ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8
+#EXTINF:-1 tvg-name="连云港公共" group-title="【🍎YanG】·地方频道",「江苏」连云港公共
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw913656304_601285611/ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8
+#EXTINF:-1 tvg-name="连云港新闻综合" group-title="【🍎YanG】·地方频道",「江苏」连云港新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb0f]/wh7f454c46tw1598526246_-2101199601/ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8
+#EXTINF:-1 tvg-name="仪化有线" group-title="【🍎YanG】·地方频道",「江苏」仪化有线
+http://[2409:8087:2001:20:2800:0:df6e:eb0c]/wh7f454c46tw2007904333_996227273/ott.mobaibox.com/PLTV/3/224/3221227702/index.m3u8
+#EXTINF:-1 tvg-name="高淳新闻" group-title="【🍎YanG】·地方频道",「江苏」高淳新闻
+http://[2409:8087:2001:20:2800:0:df6e:eb0c]/wh7f454c46tw2091063000_-113209540/ott.mobaibox.com/PLTV/3/224/3221227870/index.m3u8
+#EXTINF:-1 tvg-name="东海综合" group-title="【🍎YanG】·地方频道",「江苏」东海综合
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw2532366382_-413976163/ott.mobaibox.com/PLTV/3/224/3221227792/index.m3u8
+#EXTINF:-1 tvg-name="沛县经济生活" group-title="【🍎YanG】·地方频道",「江苏」沛县经济生活
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw2485154935_560997466/ott.mobaibox.com/PLTV/3/224/3221227611/index.m3u8
+#EXTINF:-1 tvg-name="沛县文化影视" group-title="【🍎YanG】·地方频道",「江苏」沛县文化影视
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw2571577223_-1607544057/ott.mobaibox.com/PLTV/3/224/3221227681/index.m3u8
+#EXTINF:-1 tvg-name="沛县新闻综合" group-title="【🍎YanG】·地方频道",「江苏」沛县新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw2694495294_-336953709/ott.mobaibox.com/PLTV/3/224/3221227678/index.m3u8
+#EXTINF:-1 tvg-name="泰州1" group-title="【🍎YanG】·地方频道",「江苏」泰州1
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2988629058_378021149/ott.mobaibox.com/PLTV/3/224/3221228209/index.m3u8
+#EXTINF:-1 tvg-name="泰州2" group-title="【🍎YanG】·地方频道",「江苏」泰州2
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3054465711_-1323742279/ott.mobaibox.com/PLTV/3/224/3221228212/index.m3u8
+#EXTINF:-1 tvg-name="泰州3" group-title="【🍎YanG】·地方频道",「江苏」泰州3
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3111075443_-1954595974/ott.mobaibox.com/PLTV/3/224/3221228100/index.m3u8
+#EXTINF:-1 tvg-name="睢宁三农" group-title="【🍎YanG】·地方频道",「江苏」睢宁三农
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw3159943533_-631245355/ott.mobaibox.com/PLTV/3/224/3221227709/index.m3u8
+#EXTINF:-1 tvg-name="睢宁生活教育" group-title="【🍎YanG】·地方频道",「江苏」睢宁生活教育
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw3266215445_-1224675069/ott.mobaibox.com/PLTV/3/224/3221227701/index.m3u8
+#EXTINF:-1 tvg-name="睢宁综合" group-title="【🍎YanG】·地方频道",「江苏」睢宁综合
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw2711841019_318571591/ott.mobaibox.com/PLTV/3/224/3221227706/index.m3u8
+#EXTINF:-1 tvg-name="睢宁资讯" group-title="【🍎YanG】·地方频道",「江苏」睢宁资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw2785939281_491930384/ott.mobaibox.com/PLTV/3/224/3221227712/index.m3u8
+#EXTINF:-1 tvg-name="常州公共" group-title="【🍎YanG】·地方频道",「江苏」常州公共
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4212693148_669088627/ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8
+#EXTINF:-1 tvg-name="常州新闻综合" group-title="【🍎YanG】·地方频道",「江苏」常州新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3810615020_450111224/ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8
+#EXTINF:-1 tvg-name="常州生活" group-title="【🍎YanG】·地方频道",「江苏」常州生活
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3951544714_750576923/ott.mobaibox.com/PLTV/3/224/3221227902/index.m3u8
+#EXTINF:-1 tvg-name="常州都市" group-title="【🍎YanG】·地方频道",「江苏」常州都市
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4002153568_939060722/ott.mobaibox.com/PLTV/3/224/3221227955/index.m3u8
+#EXTINF:-1 tvg-name="宝应新闻综合" group-title="【🍎YanG】·地方频道",「江苏」宝应新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw2870965829_-39927312/ott.mobaibox.com/PLTV/3/224/3221228007/index.m3u8
+#EXTINF:-1 tvg-name="宝应生活资讯" group-title="【🍎YanG】·地方频道",「江苏」宝应生活资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2889103905_1760287796/ott.mobaibox.com/PLTV/3/224/3221228039/index.m3u8
+#EXTINF:-1 tvg-name="铜山3" group-title="【🍎YanG】·地方频道",「江苏」铜山3
+http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw3277816327_1610783039/ott.mobaibox.com/PLTV/3/224/3221228055/index.m3u8
+#EXTINF:-1 tvg-name="铜山2" group-title="【🍎YanG】·地方频道",「江苏」铜山2
+http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw3266023742_-315157707/ott.mobaibox.com/PLTV/3/224/3221228081/index.m3u8
+#EXTINF:-1 tvg-name="铜山1" group-title="【🍎YanG】·地方频道",「江苏」铜山1
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3676988403_-40659425/ott.mobaibox.com/PLTV/3/224/3221228152/index.m3u8
+#EXTINF:-1 tvg-name="镇江新闻综合" group-title="【🍎YanG】·地方频道",「江苏」镇江新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw1100784708_827843552/ott.mobaibox.com/PLTV/3/224/3221228246/index.m3u8
+#EXTINF:-1 tvg-name="赣榆" group-title="【🍎YanG】·地方频道",「江苏」赣榆
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw1171115665_-517528173/ott.mobaibox.com/PLTV/3/224/3221228317/index.m3u8
+#EXTINF:-1 tvg-name="邳州综合" group-title="【🍎YanG】·地方频道",「江苏」邳州综合
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2533804280_-725162855/ott.mobaibox.com/PLTV/3/224/3221227576/index.m3u8
+#EXTINF:-1 tvg-name="宿迁综合" group-title="【🍎YanG】·地方频道",「江苏」宿迁综合
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw1682757042_1482535442/ott.mobaibox.com/PLTV/4/224/3221226944/index.m3u8
+#EXTINF:-1 tvg-name="宿迁公共" group-title="【🍎YanG】·地方频道",「江苏」宿迁公共
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw1756901329_237803346/ott.mobaibox.com/PLTV/4/224/3221226939/index.m3u8
+#EXTINF:-1 tvg-name="扬州1" group-title="【🍎YanG】·地方频道",「江苏」扬州1
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw2042951982_296363859/ott.mobaibox.com/PLTV/4/224/3221228155/index.m3u8
+#EXTINF:-1 tvg-name="扬州2" group-title="【🍎YanG】·地方频道",「江苏」扬州2
+http://[2409:8087:2001:20:2800:0:df6e:eb20]/wh7f454c46tw2079693471_1453629667/ott.mobaibox.com/PLTV/4/224/3221228338/index.m3u8
+#EXTINF:-1 tvg-name="扬州3" group-title="【🍎YanG】·地方频道",「江苏」扬州3
+http://[2409:8087:2001:20:2800:0:df6e:eb0d]/wh7f454c46tw2162902736_1088905287/ott.mobaibox.com/PLTV/4/224/3221227867/index.m3u8
+#EXTINF:-1 tvg-name="新沂1" group-title="【🍎YanG】·地方频道",「江苏」新沂1
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2193528548_-178282587/ott.mobaibox.com/PLTV/3/224/3221227289/index.m3u8
+#EXTINF:-1 tvg-name="新沂2" group-title="【🍎YanG】·地方频道",「江苏」新沂2
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2272375900_2058480119/ott.mobaibox.com/PLTV/3/224/3221227311/index.m3u8
+#EXTINF:-1 tvg-name="镇江2" group-title="【🍎YanG】·地方频道",「江苏」镇江2
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw3271148643_-1965191630/ott.mobaibox.com/PLTV/4/224/3221227325/index.m3u8
+#EXTINF:-1 tvg-name="镇江3" group-title="【🍎YanG】·地方频道",「江苏」镇江3
+http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw2461344193_395316009/ott.mobaibox.com/PLTV/3/224/3221228208/index.m3u8
+#EXTINF:-1 tvg-name="京视剧场" group-title="【🍎YanG】·地方频道",「江苏」京视剧场
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw2927670510_1843427486/ott.mobaibox.com/PLTV/3/224/3221227040/index.m3u8
+#EXTINF:-1 tvg-name="无锡新闻综合" group-title="【🍎YanG】·地方频道",「江苏」无锡新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3152427644_1112931372/ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
+#EXTINF:-1 tvg-name="贾汪新闻" group-title="【🍎YanG】·地方频道",「江苏」贾汪新闻
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw3005294665_-433598957/ott.mobaibox.com/PLTV/3/224/3221227385/index.m3u8
+#EXTINF:-1 tvg-name="贾汪旅游" group-title="【🍎YanG】·地方频道",「江苏」贾汪旅游
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw3158177609_-1622861678/ott.mobaibox.com/PLTV/3/224/3221227389/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「江苏」洪泽综合
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw3699298408_-685916425/ott.mobaibox.com/PLTV/3/224/3221228287/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「江苏」国学与家道
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3793293799_-1723707003/ott.mobaibox.com/PLTV/4/224/3221227736/index.m3u8
+#EXTINF:-1 tvg-name="影视剧频道" group-title="【🍎YanG】·地方频道",「江苏」影视剧频道
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw3833147877_659161399/ott.mobaibox.com/PLTV/4/224/3221227372/index.m3u8
+#EXTINF:-1 tvg-name="镇江新闻综合l" group-title="【🍎YanG】·地方频道",「江苏」镇江新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3949322656_1360725434/ott.mobaibox.com/PLTV/4/224/3221228246/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江文体" group-title="【🍎YanG】·地方频道",「黑龙江」黑龙江文体
+http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
+#EXTINF:-1 tvg-name="黑龙江农业科教" group-title="【🍎YanG】·地方频道",「黑龙江」黑龙江农业科教
+http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
+#EXTINF:-1 tvg-name="黑龙江都市" group-title="【🍎YanG】·地方频道",「黑龙江」黑龙江都市
+http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8
+#EXTINF:-1 tvg-name="黑龙江少儿" group-title="【🍎YanG】·地方频道",「黑龙江」黑龙江少儿
+http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
+#EXTINF:-1 tvg-name="黑龙江影视" group-title="【🍎YanG】·地方频道",「黑龙江」黑龙江影视
+http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
+#EXTINF:-1 tvg-name="黑龙新闻法治" group-title="【🍎YanG】·地方频道",「黑龙江」黑龙新闻法治
+http://[2409:8087:1a01:df::4036]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
+#EXTINF:-1 tvg-name="鹤岗新闻综合" group-title="【🍎YanG】·地方频道",「黑龙江」鹤岗新闻综合
+http://[2409:8087:1a01:df::4060]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「黑龙江」佳木斯新闻综合
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「黑龙江」齐齐哈尔经济法制
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「黑龙江」齐齐哈尔新闻综合
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「黑龙江」双鸭山公共
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「黑龙江」双鸭山综合
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
+#EXTINF:-1 tvg-name="海南自贸" group-title="【🍎YanG】·地方频道",「海南」海南自贸
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
+#EXTINF:-1 tvg-name="海南新闻" group-title="【🍎YanG】·地方频道",「海南」海南新闻
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS
+#EXTINF:-1 tvg-name="海南文旅" group-title="【🍎YanG】·地方频道",「海南」海南文旅
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS
+#EXTINF:-1 tvg-name="海南少儿" group-title="【🍎YanG】·地方频道",「海南」海南少儿
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
+#EXTINF:-1 tvg-name="海南公共" group-title="【🍎YanG】·地方频道",「海南」海南公共
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
+#EXTINF:-1 tvg-name="三亚卫视" group-title="【🍎YanG】·地方频道",「海南」三亚卫视
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000136/index.m3u8?IAS
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「陕西」宝鸡1
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8
+#EXTINF:-1 tvg-id="2409:8087:7001:20:3::3" group-title="【🍎YanG】·地方频道",「陕西」宝鸡2
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226384/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「陕西」安康综合
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「陕西」西乡融媒
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226556/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「陕西」商洛1
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226378/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「陕西」城园
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226920/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「陕西」扶风
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227005/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「陕西」汉中1
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「陕西」汉中2
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225990/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「陕西」汉中3
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225991/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「陕西」千阳
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226945/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「陕西」神木1
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226993/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「陕西」石泉电视台
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226965/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「陕西」岐山
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226982/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「陕西」吴起电视台
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226967/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「陕西」洋县电视台1
+http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226938/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「陕西」紫阳综合
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227002/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「陕西」FGTV 1
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·地方频道",「陕西」佛坪电视台
+http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
+
+#EXTINF:-1 group-title="【🍎YanG】·4K",CCTV8K 测试
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·4K",8K
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·4K",爱上 4K •支持回看
+http://[2409:8087:7001:20:3::5]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226352/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·4K",爱上4K 
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1 group-title="【🍎YanG】·4K",爱上4K 
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="【🍎YanG】·4K",4K 修复•支持回看
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+#EXTINF:-1 group-title="【🍎YanG】·4K",BesTV 4K 
+http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+#EXTINF:-1 tvg-name="纯享4K" group-title="【🍎YanG】·4K",纯享 4K
+http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-name="纯享4K" group-title="【🍎YanG】·4K",纯享 4K
+http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" group-title="【🍎YanG】·4K",CCTV16 4K •支持回看
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" group-title="【🍎YanG】·4K",SiTV欢笑剧场4K 
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
