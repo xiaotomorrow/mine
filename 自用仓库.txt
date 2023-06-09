@@ -21,7 +21,7 @@
             "name": "云星线路"
         },
         {
-            "url": "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+            "url": "https://raw.githubusercontent.com/xiaotomorrow/mine/main/test",
             "name": "测试"
         }
             ]
