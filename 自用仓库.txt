@@ -22,7 +22,7 @@
         },
         {
             "url": "https://raw.githubusercontent.com/xiaotomorrow/mine/main/test.json",
-            "name": "擦擦擦"
+            "name": "按实际到货"
         }
             ]
 }
