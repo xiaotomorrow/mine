@@ -23,13 +23,15 @@
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
-      "name": "live",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-      "playerType": 1
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=m3u&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1lhbkctMTk4OS9tM3UvbWFpbi9HYXRoZXIubTN1"
+          ]
+        }
+      ]
     }
   ],
   "parses": [
