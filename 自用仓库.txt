@@ -22,7 +22,7 @@
         },
         {
             "url": "https://raw.githubusercontent.com/xiaotomorrow/mine/main/test.json",
-            "name": "按实际到货"
+            "name": "阿斯顿福建奥斯卡"
         }
             ]
 }
