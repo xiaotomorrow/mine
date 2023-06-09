@@ -22,7 +22,7 @@
         },
         {
             "url": "https://raw.githubusercontent.com/xiaotomorrow/mine/main/test.json",
-            "name": "自用直播"
+            "name": "擦擦擦"
         }
             ]
 }
