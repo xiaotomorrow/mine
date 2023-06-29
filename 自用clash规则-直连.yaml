@@ -1,11 +1,11 @@
 payload:
-  - DOMAIN,stun.nextcloud.com
-  - DOMAIN,fwa.lifesizecloud.com
-  - DOMAIN,stun.isp.net.au
-  - DOMAIN,stun.freeswitch.org
-  - DOMAIN,stun.voip.blackberry.com
-  - DOMAIN,stun.stunprotocol.org
-  - DOMAIN,stun.sipnet.com
-  - DOMAIN,stun.radiojar.com
-  - DOMAIN,stun.sonetel.com
-  - DOMAIN,stun.voipgate.com
+  - DOMAIN-SUFFIX,nextcloud.com
+  - DOMAIN-SUFFIX,lifesizecloud.com
+  - DOMAIN-SUFFIX,isp.net.au
+  - DOMAIN-SUFFIX,freeswitch.org
+  - DOMAIN-SUFFIX,voip.blackberry.com
+  - DOMAIN-SUFFIX,stunprotocol.org
+  - DOMAIN-SUFFIX,sipnet.com
+  - DOMAIN-SUFFIX,radiojar.com
+  - DOMAIN-SUFFIX,sonetel.com
+  - DOMAIN-SUFFIX,voipgate.com
