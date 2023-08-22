@@ -6,7 +6,6 @@ payload:
   - DOMAIN-KEYWORD,listary
   - DOMAIN-SUFFIX,domob.ml
   - DOMAIN-SUFFIX,githubusercontent.com
-  # - DOMAIN-SUFFIX,1drv.com
   #- DOMAIN-SUFFIX,emby.media
   # dev网盘
   #- DOMAIN-SUFFIX,devuploads.com
