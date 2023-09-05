@@ -13,7 +13,7 @@
             "name": "菜妮丝线路"
         },
        {
-            "url": "http://饭太硬.ga/tv",
+            "url": "http://饭太硬.top/tv",
             "name": "饭硬线路"
         },
         {
