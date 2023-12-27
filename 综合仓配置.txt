@@ -1,5 +1,5 @@
 {"storeHouse": [
-{"sourceName":"📺自用精品仓库","sourceUrl":"https://raw.githubusercontent.com/xiaotomorrow/mine/main/%E8%87%AA%E7%94%A8%E4%BB%93%E5%BA%93.txt"},
+{"sourceName":"📺自用精品仓库","sourceUrl":"https://raw.githubusercontent.com/xiaotomorrow/mine/main/%E8%87%AA%E7%94%A8%E5%A4%9A%E4%BB%93.txt"},
 {"sourceName":"欧哥","sourceUrl":"http://m.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"},
 {"sourceName":"星河无敌仓","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/137241/%E6%97%A0%E6%95%8C%E5%8D%95%E4%BB%93.txt?sign=uj8bty6Hv5BLdil1uA0iIWvMu1043DUiU4mNqdnPLCs%3D%3A0"},  
 {"sourceName":"星河战神仓","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/137242/%E6%98%9F%E6%B2%B3%E7%B2%89%E4%B8%9D%E4%B8%93%E5%B1%9E%E5%8D%95%E4%BB%93.txt?sign=h6rLeosSHoSihmogFvwX8pyc5WHOJS4iPIBYxhqg5Ag%3D%3A0"}
