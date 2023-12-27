@@ -9,8 +9,8 @@
             "name": "香雅情"
         },
         {
-            "url": "https://raw.githubusercontent.com/xiaotomorrow/mine/main/%E8%87%AA%E7%94%A8TV.json",
-            "name": "自用直播源"
+            "url": "https://raw.githubusercontent.com/xiaotomorrow/mine/main/%E8%87%AA%E7%94%A8%E4%BB%93%E5%BA%93.json",
+            "name": "精选直播源"
         },
        {
             "url": "https://tvkj.top/DC/ysc/tvkj/svip.json",
