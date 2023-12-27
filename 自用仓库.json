@@ -1,16 +1,5 @@
 {
     "lives": [
-{
-"group":"分组1",
-"channels":[
-        {
-          "name": "自用直播源txt",
-          "type":"0",
-          "pass": true,
-          "url": "https://raw.githubusercontent.com/xiaotomorrow/mine/main/%E8%87%AA%E7%94%A8%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
         {
           "name": "自用直播源m3u",
           "type":"0",
@@ -18,7 +7,6 @@
           "url": "https://raw.githubusercontent.com/xiaotomorrow/mine/main/%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.m3u",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }]
         }
     ],
     "sites": [
