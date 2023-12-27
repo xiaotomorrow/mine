@@ -33,10 +33,6 @@
             "name": "云星线路"
         },
         {
-            "url": "http://永遠的神ys.top/duo",
-            "name": "应用多多"
-        },
-        {
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "道长"
         },
