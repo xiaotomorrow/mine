@@ -12,6 +12,10 @@
             "url": "https://tvkj.top/DC/ysc/tvkj/svip.json",
             "name": "运输车"
         },
+        {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "小米"
+        },
        {
             "url": "https://tvbox.cainisi.cf",
             "name": "菜妮丝线路"
@@ -25,7 +29,7 @@
             "name": "云星线路"
         },
         {
-            "url": "http://yydsys.top/duo",
+            "url": "http://永遠的神ys.top/duo",
             "name": "应用多多"
         },
         {
