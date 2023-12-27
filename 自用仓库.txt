@@ -8,6 +8,10 @@
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "香雅情"
         },
+        {
+            "url": "https://raw.githubusercontent.com/xiaotomorrow/mine/main/%E8%87%AA%E7%94%A8TV.json",
+            "name": "自用直播源"
+        },
        {
             "url": "https://tvkj.top/DC/ysc/tvkj/svip.json",
             "name": "运输车"
